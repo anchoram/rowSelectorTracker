@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"Aakash","email":"amanohar@anchorpac.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/rowSelectorTrackerE8E3715F602842FF9F674990EA019D6E.pbiviz.json"
+			}
+		],
+		"visual": {"name":"rowSelectorTracker","displayName":"Row Selector Tracker","guid":"rowSelectorTrackerE8E3715F602842FF9F674990EA019D6E","visualClassName":"Visual","version":"1.0.0.0","description":"Tracks the order of user clicks and displays them in sequence.","supportUrl":"https://www.google.com","gitHubUrl":""},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}
